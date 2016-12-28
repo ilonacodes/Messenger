@@ -1,0 +1,19 @@
+.log-in-form {
+    width: 300px;
+    height: 200px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+    margin: auto;
+}
+
+.hidden {
+    display: none;
+}
+
+.my-nickname {
+    text-align: right;
+}
